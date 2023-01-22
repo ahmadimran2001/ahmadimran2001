@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a 6th Semester CS Student 👋
 
 <!--
 **ahmadimran2001/ahmadimran2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
