@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ahmad Imran</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <P>Hi there! 👋 My name is Ahmad and I am a third-year computer science student at Air University, Islamabad. My passion lies in web development and I have gained expertise in the MERN stack through my studies, and projects.I have also completed 80 hours of professional training in PSEB IT Academia Bridge Program in MERN STACK-Basic. <br>I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the cricket and I also play all kinds of sports.</P>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <p>Email Address: ahmed.imran15122001@gmail.com <br> Linkedin: https://www.linkedin.com/in/ahmad-imran-engg/</p>
 <p align="left">
 </p>
