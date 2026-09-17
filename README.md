@@ -7,8 +7,8 @@ I work at the intersection of software development, testing, automation, and inf
 I enjoy taking things apart, understanding how they work, finding problems, and building better ways to test and automate them. I'm particularly interested in distributed systems, infrastructure, software engineering, and exploring AI/ML.
 
 Outside of work, I'm usually experimenting with something new, building a side project, or watching cricket. 🏏</P>
-<h3 align="left">Connect me:</h3>
-<p>Email Address: ahmed.imran15122001@gmail.com <br> Linkedin: https://www.linkedin.com/in/ahmad-imran-engg/</p>
+<h3 align="left">Connect With Me:</h3>
+<p>Email Address: ahmad.imran15122001@gmail.com <br> Linkedin: https://www.linkedin.com/in/ahmad-imran-engg/</p>
 <p align="left">
 </p>
 
